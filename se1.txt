@@ -1,0 +1,34 @@
+Python
+------
+
+referência 1: https://www.python.org/
+referência 2: https://docs.python.org/pt-br/3/reference/index.html
+relação: logica de programação, interação de variáveis, etc
+
+------
+Git
+------
+
+referência: https://git-scm.com/
+relação: ajudar na correlação entre diferentes partes de um projeto
+
+------
+VS Code
+------
+
+referência: https://code.visualstudio.com/
+relação: plataforma para criação e testes de programas
+
+------
+Sqlitebrowser
+------
+
+referência: https://sqlitebrowser.org/
+relação: visualização de banco de dados, podendo acessar alguns dados de maneira remota 
+
+------
+Navgadores (Google Chrome, Firefox, Opera, Edge)
+------
+
+referência: 
+relação: acesso aos programas desenvolvidos em aula
